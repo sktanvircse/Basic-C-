@@ -4,4 +4,6 @@ project(With_C__)
 set(CMAKE_CXX_STANDARD 14)
 
 add_executable(With_C__
-    Linear_Search.cpp)
+#        Linear_Search.cpp
+        Pattern_Matching.cpp
+)
