@@ -1,10 +1,8 @@
 # ninja log v6
-862	1126	7514811303628992	With_C__.exe	1958f7e66502906b
 10	856	7514811295121468	CMakeFiles/With_C__.dir/Linear_Search.cpp.obj	24be1a3df81d4e89
-26	605	7514833744745349	build.ninja	511112205f0fed1
-52	965	7514833747013710	CMakeFiles/With_C__.dir/Pattern_Matching.cpp.obj	51bfbfcdeca57e32
-966	1240	7514833756152512	With_C__.exe	1c83dc0a0b53faf1
-15	768	7514834415655312	CMakeFiles/With_C__.dir/Pattern_Matching.cpp.obj	51bfbfcdeca57e32
-769	964	7514834423195120	With_C__.exe	1c83dc0a0b53faf1
-12	770	7514835122149391	CMakeFiles/With_C__.dir/Pattern_Matching.cpp.obj	51bfbfcdeca57e32
 771	964	7514835129733404	With_C__.exe	1c83dc0a0b53faf1
+26	605	7514860986432095	build.ninja	511112205f0fed1
+12	770	7514835122149391	CMakeFiles/With_C__.dir/Pattern_Matching.cpp.obj	51bfbfcdeca57e32
+5	502	7514860986432095	build.ninja	511112205f0fed1
+56	776	7514860988586206	CMakeFiles/With_C__.dir/Bubble_Sort.cpp.obj	fc3035903583987b
+777	967	7514860995798093	With_C__.exe	4d31454c66d285a2
