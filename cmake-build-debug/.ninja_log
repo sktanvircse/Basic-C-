@@ -1,9 +1,10 @@
 # ninja log v6
-777	967	7514860995798093	With_C__.exe	4d31454c66d285a2
 10	856	7514811295121468	CMakeFiles/With_C__.dir/Linear_Search.cpp.obj	24be1a3df81d4e89
-5	502	7529935428711237	build.ninja	511112205f0fed1
-56	776	7514860988586206	CMakeFiles/With_C__.dir/Bubble_Sort.cpp.obj	fc3035903583987b
-12	770	7514835122149391	CMakeFiles/With_C__.dir/Pattern_Matching.cpp.obj	51bfbfcdeca57e32
-50	649	7529935428711237	build.ninja	511112205f0fed1
-39	1256	7529935431244471	CMakeFiles/With_C__.dir/Prefix_Evaluation.cpp.obj	bf8bd1f869e0b66
 1257	1807	7529935443429517	With_C__.exe	4648df774bcd3ef8
+50	649	7529943539758090	build.ninja	511112205f0fed1
+12	770	7514835122149391	CMakeFiles/With_C__.dir/Pattern_Matching.cpp.obj	51bfbfcdeca57e32
+56	776	7514860988586206	CMakeFiles/With_C__.dir/Bubble_Sort.cpp.obj	fc3035903583987b
+39	1256	7529935431244471	CMakeFiles/With_C__.dir/Prefix_Evaluation.cpp.obj	bf8bd1f869e0b66
+26	666	7529943539758090	build.ninja	511112205f0fed1
+28	910	7529943542410982	CMakeFiles/With_C__.dir/Postfix_Evaluation.cpp.obj	2443cc031e42734
+911	1126	7529943551237376	With_C__.exe	1646b29687c4db18

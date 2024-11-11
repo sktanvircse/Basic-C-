@@ -7,5 +7,6 @@ add_executable(With_C__
 #        Linear_Search.cpp
 #        Pattern_Matching.cpp
 #        Bubble_Sort.cpp
-        Prefix_Evaluation.cpp
+#        Prefix_Evaluation.cpp
+       Postfix_Evaluation.cpp
 )
