@@ -6,5 +6,6 @@ set(CMAKE_CXX_STANDARD 14)
 add_executable(With_C__
 #        Linear_Search.cpp
 #        Pattern_Matching.cpp
-        Bubble_Sort.cpp
+#        Bubble_Sort.cpp
+        Prefix_Evaluation.cpp
 )
