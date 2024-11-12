@@ -9,5 +9,6 @@ add_executable(With_C__
 #        Bubble_Sort.cpp
 #        Prefix_Evaluation.cpp
 #       Postfix_Evaluation.cpp
-        Quick_Sort.cpp
+#        Quick_Sort.cpp
+        Factorial_Calculation_UsingRecursion.cpp
 )
