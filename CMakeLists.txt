@@ -10,5 +10,7 @@ add_executable(With_C__
 #        Prefix_Evaluation.cpp
 #       Postfix_Evaluation.cpp
 #        Quick_Sort.cpp
-        Factorial_Calculation_UsingRecursion.cpp
+#        Factorial_Calculation_UsingRecursion.cpp
+#        Fibonacci_Sequence_Using_Recursion.cpp
+        Tower_of_Hanoi_Using_Recursion.cpp
 )
